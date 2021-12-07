@@ -1,0 +1,130 @@
+body{
+margin:0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: ;
+
+
+}
+h1{
+  margin-top:0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #396EB0;
+  line-height: 2;
+
+
+}
+h2{
+  font-size: 1.3rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #396EB0;
+  font-weight: normal;
+
+}
+h3{
+  color: #396EB0;
+  font-size: 1rem;
+
+}
+hr{
+  width: 30%;
+}
+p{
+  line-height: 2;
+
+}
+a{
+  text-decoration: none;
+  margin:20px;
+  color: #11999E;
+}
+
+.top-container{
+  background-color: #C2FFF9;
+  padding-top: 20px;
+  position: relative;
+
+
+}
+.pro{
+  text-decoration: underline;
+}
+
+.middle-container{
+
+}
+.bottom-container{
+  margin: 40px auto 0 auto;
+  background-color: #71DFE7;
+  padding: 40px;
+
+}
+.image-cloud-two{
+  position: absolute;
+}
+.image-cloud-one{
+  margin-left: 500px;
+}
+.image-mountain{
+}
+.profile{
+  margin:40px auto;
+}
+a:hover{
+  color:white;
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Arial;
+  color: white;
+  font-size: 19px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #C2FFF9;
+  color:#396EB0;
+  background-image: -webkit-linear-gradient(top, #C2FFF9, #C2FFF9);
+  background-image: -moz-linear-gradient(top, #C2FFF9, #C2FFF9);
+  background-image: -ms-linear-gradient(top, #C2FFF9, #C2FFF9);
+  background-image: -o-linear-gradient(top, #C2FFF9, #C2FFF9);
+  background-image: linear-gradient(to bottom, #C2FFF9, #C2FFF9);
+  text-decoration: none;
+}
+.bottom-container p{
+  color:#EAF6F6;
+  font-size: 14px;
+}
+.game-image{
+ float: right;
+ margin-left: 20px;
+}
+.code-image{
+float: left;
+margin-right: 20px;
+}
+.skills{
+  padding: 30px;
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.g-p{
+  /* clear:right; */
+}
+.c-p{
+  /* clear:left; */
+}
