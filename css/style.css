@@ -129,3 +129,12 @@ margin-right: 20px;
 .c-p{
   /* clear:left; */
 }
+.contact-me{
+  margin:20px auto;
+  text-align: center;
+}
+.contact-me p {
+  width:50%;
+  margin:20px auto;
+
+}
